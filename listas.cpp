@@ -11,7 +11,7 @@
 *                                                                      *
 ========================================================================
 
-  Ejercicio: Operaciones sobre una lista predefinida en el lenguaje
+  Ejercicio: Uso de la libreria list en C++
 */
 
 #include<iostream>
